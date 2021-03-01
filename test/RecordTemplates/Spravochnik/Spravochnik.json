@@ -1,0 +1,25 @@
+{
+  "$type": "Comindware.Platform.Contracts.TemplateInfoModel, Comindware.Platform.Contracts",
+  "Name": "Spravochnik",
+  "GlobalAlias": {
+    "$type": "Comindware.Platform.Contracts.GlobalAlias, Comindware.Platform.Contracts",
+    "Type": "RecordTemplate",
+    "Alias": "Spravochnik"
+  },
+  "IsDisabled": false,
+  "IsReferenceData": true,
+  "IsTransferable": true,
+  "KeyProperty": "imor",
+  "ConversationDisplayConfig": {
+    "$type": "Comindware.Platform.Contracts.ObjectConversationDisplayConfigModel, Comindware.Platform.Contracts",
+    "DisableSidePanelConversations": true,
+    "DisableWidgetConversations": true,
+    "ProhibitedReferenceTypes": {
+      "$type": "System.Collections.Generic.List`1[[Comindware.Platform.Contracts.ConversationReferenceTypes, Comindware.Platform.Contracts]], mscorlib",
+      "$values": [
+        "Attachment"
+      ]
+    },
+    "HideArchivedMessages": false
+  }
+}
