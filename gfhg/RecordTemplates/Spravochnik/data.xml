@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Records Alias="Spravochnik">
+  <Records>
+    <Record>
+      <Keys>
+        <Key Alias="imor" Type="String">
+          <Key xmlns:q1="http://www.w3.org/2001/XMLSchema" d6p1:type="q1:string" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">hgf</Key>
+        </Key>
+      </Keys>
+      <Properties>
+        <Value Alias="orlr" Type="Boolean" />
+        <Value Alias="lool" Type="String">
+          <SimpleValue xmlns:q2="http://www.w3.org/2001/XMLSchema" d6p1:type="q2:string" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">gfh</SimpleValue>
+        </Value>
+      </Properties>
+    </Record>
+    <Record>
+      <Keys>
+        <Key Alias="imor" Type="String">
+          <Key xmlns:q3="http://www.w3.org/2001/XMLSchema" d6p1:type="q3:string" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">hg</Key>
+        </Key>
+      </Keys>
+      <Properties>
+        <Value Alias="orlr" Type="Boolean">
+          <SimpleValue xmlns:q4="http://www.w3.org/2001/XMLSchema" d6p1:type="q4:boolean" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">true</SimpleValue>
+        </Value>
+        <Value Alias="lool" Type="String">
+          <SimpleValue xmlns:q5="http://www.w3.org/2001/XMLSchema" d6p1:type="q5:string" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">g</SimpleValue>
+        </Value>
+      </Properties>
+    </Record>
+  </Records>
+</Records>
